@@ -1,10 +1,10 @@
 # rpi-zero-joystick
-USB Joystick using a RPi zero as the controller
+USB Joystick using an RPi zero as the controller
 
 ![front](https://user-images.githubusercontent.com/9079958/203825713-0c92cdd8-e0c5-41dc-a1be-481c72eb6f3f.jpg)
 ![back](https://user-images.githubusercontent.com/9079958/203825724-0f0f1d84-456d-44ae-966c-154d751dac32.jpg)
 
-Default configuration sends direction via USB as keyboard arrow key inputs
+The default configuration sends the joystick direction to the connected USB device as if the arrow keys on a keyboard were pressed
 
 # Setup Pi Zero as a USB device using
 ```
