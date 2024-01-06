@@ -30,4 +30,5 @@ def run():
         write_report(report)
         sleep(1.0/tickrate)
                 
-run()
+if __name__ == "__main__":
+    run()
